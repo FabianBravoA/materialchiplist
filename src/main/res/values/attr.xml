@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ChipList">
+        <attr name="chip_prompt_color"              format="color"/>
+        <attr name="chip_icon_tint"                 format="color"/>
+        <attr name="chip_text_color"                format="color"/>
+        <attr name="chip_background_color"          format="color"/>
+        <attr name="chip_selected_background_color" format="color"/>
+        <attr name="no_chips_prompt_text"           format="string"/>
+    </declare-styleable>
+</resources>
